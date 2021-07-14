@@ -1,0 +1,16 @@
+{
+  "name": "math-fun-bot",
+  "version": "1.0.0",
+  "description": "Math Fun Fact Bot for twitter",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "SangyK",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "twitter": "^1.7.1"
+  }
+}
